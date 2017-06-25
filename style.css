@@ -1,0 +1,34 @@
+h2, h3 {
+    color: #ff8c00 !important;
+    padding-top: 0px !important;
+}
+
+hr {
+    width: auto;
+    height: 2px !important;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.c-title {
+    font-weight: 700;
+    margin-bottom: -5px;
+
+}
+
+.image {
+    float: left;
+    margin: 0px 150px 6px 0px;
+    padding: 4px;
+    line-height: 1.62857143;
+    background-color: #fff;
+    border: 2px solid #ddd;
+    border-radius: 0;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
